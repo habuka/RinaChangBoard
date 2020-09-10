@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RinaChangBoard</string>
+    <string name="error">No Activity</string>
+    <string name="text">Test RecognizerIntent</string>
+    <string name="button">Speech</string>
+    <string name="count_string">Count</string>
+</resources>
