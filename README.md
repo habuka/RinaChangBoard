@@ -9,7 +9,7 @@
 
 (Androidの開発環境を導入済の方は1,2は飛ばしてください)
 1. AndroidのUSBデバッグを有効にします。(https://developer.android.com/studio/debug/dev-options?hl=ja)
-1. Android
+1. Android Studioをインストールしてください。(https://developer.android.com/studio/install?hl=ja)  
 1. 本リポジトリをcloneまたはzipでダウンロードします。
 1. Android Studioを開き、「プロジェクトのインポート」から本プロジェクトをインポートします。
 1. お手持ちのAndroid端末をPCに接続し、「実行」をクリックすることでビルドが開始され、Android端末に書き込まれます。
